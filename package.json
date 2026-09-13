@@ -2,7 +2,7 @@
   "name": "rails-mass-assignment-companion",
   "displayName": "Rails Mass Assignment Companion",
   "description": "Flags params.permit! -- disables Rails strong parameters entirely, the textbook mass-assignment anti-pattern. No data leaves your editor.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "GapHunterLabs",
   "icon": "images/icon.png",
   "license": "Apache-2.0",
